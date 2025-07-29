@@ -61,3 +61,7 @@ tokenizer = BertTokenizer.from_pretrained("bert-imdb-sentiment")
 ## 📜 License
 
 MIT License
+...
+
+---
+📬 Questions or feedback? Reach me via [LinkedIn] https://www.linkedin.com/in/youri-benschop-133045b1/
